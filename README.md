@@ -1,5 +1,7 @@
 # GastoClaro: clasificador de gastos con IA
 
+Final project for the Building AI course
+
 ## Summary
 Una app que lee la descripción de tus gastos (por ejemplo, "Uber a la escuela" o "tacos con amigos") y los clasifica sola en categorías como transporte, comida o entretenimiento, para que veas en qué se va tu dinero sin capturar nada a mano.
 
